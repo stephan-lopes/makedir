@@ -1,0 +1,7 @@
+project:
+  description: "Este é um exemplo de código"
+  directories:
+    - path: "/um/teste"
+      perm: 0755
+    - path: "/tres/quatro"
+      perm: 0755
